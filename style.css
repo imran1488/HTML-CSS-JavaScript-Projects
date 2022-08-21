@@ -1,4 +1,4 @@
-/* this css is for styling */
+
 *{
     margin:0;
     padding:0;
@@ -42,7 +42,7 @@ body{
     animation: shake linear 1s infinite;
  }
  .wheel1 img{
-    width: 71px;
+    width: 70px;
     position: relative;
     top: 42px;
     left: 46px;
